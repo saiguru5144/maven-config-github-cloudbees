@@ -48,3 +48,9 @@ An [article published to the french blog Java & Moi](http://javaetmoi.com/2012/0
 * Uses [GitHub](https://github.com/arey/maven-config-github-cloudbees) for hosting source code and documentation
 gbbgrjgngrgrler
 this line is used to pull
+abgenrjggtehthen
+gknhnthahjthnegt
+ebngnkh;enhhteaketha
+egwgrhtgrnhthajnhh
+rwnjbtlhaht;mhtm;h
+gentlenthek;ha;hbhrnr
