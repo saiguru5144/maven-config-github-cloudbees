@@ -46,3 +46,4 @@ An [article published to the french blog Java & Moi](http://javaetmoi.com/2012/0
 * Uses [Maven](http://maven.apache.org/) as a build tool
 * Uses [Cloudbees](http://www.cloudbees.com/foss) for continuous integration builds whenever code is pushed into GitHub
 * Uses [GitHub](https://github.com/arey/maven-config-github-cloudbees) for hosting source code and documentation
+gbbgrjgngrgrler
